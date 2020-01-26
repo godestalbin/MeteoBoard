@@ -16,3 +16,6 @@ Base Skeleton to start your application using Flask-AppBuilder
 
 
 That's it!!
+
+Vitual env directory defined for pythoneverywhere
+/home/godestalbin2/.virtualenvs/venvdemo01
